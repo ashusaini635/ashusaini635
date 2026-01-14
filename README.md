@@ -12,16 +12,17 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshuSaini&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshuSaini&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshuSaini&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AshuSaini" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSaini&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSaini&layout=compact&langs_count=8" />
 </p>
+
 
 ---
 
