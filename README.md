@@ -11,15 +11,9 @@
 
 ## 📊 GitHub Stats & Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshuSaini&show_icons=true&count_private=true&include_all_commits=true)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AshuSaini)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSaini&layout=compact)
-
-
+![GitHub followers](https://img.shields.io/github/followers/AshuSaini?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/AshuSaini?label=Total%20Stars&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=AshuSaini)
 
 ---
 
