@@ -11,10 +11,12 @@
 
 ## 📊 GitHub Stats & Activity  
 
-![GitHub followers](https://img.shields.io/github/followers/AshuSaini?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/AshuSaini?label=Total%20Stars&style=flat)
-![Profile views](https://komarev.com/ghpvc/?username=AshuSaini)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshuSaini&show_icons=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ashusaini635?label=Followers" />
+  <img src="https://img.shields.io/github/stars/ashusaini635?label=Total%20Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ashusaini635&label=Profile%20Views" />
+</p>
+
 
 
 ---
