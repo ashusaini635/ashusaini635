@@ -1,54 +1,36 @@
 # 👋 Hi, I'm Ashu Saini  
 
 🎯 **Data Analyst | Automation Engineer | Healthcare RCM Analytics**  
-📍 Mohali, Punjab, India  
+📍 India | 🌍 Open to US • UAE • Remote Opportunities  
 
-📧 Email: ashusaini635@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/sainiashu  
-🌐 Portfolio: https://ashusaini.netlify.app  
-
----
-
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashusaini635&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashusaini635&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashusaini635&layout=compact&hide_border=true" />
-</p>
-
-
+📧 **Email:** ashusaini635@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/sainiashu  
+🌐 **Portfolio:** https://ashusaini.netlify.app  
 
 ---
 
-## 🔍 Professional Summary (ATS Optimized)
+## 💡 Professional Summary  
 
-Results-driven **Data Analyst with 4+ years of experience** in **data analytics, automation, ETL pipelines, and dashboard development**.  
-Expert in **Python, SQL, Power BI, Excel, PostgreSQL**, and **automation frameworks** to improve operational efficiency and decision-making.  
-Specialized in **Healthcare Revenue Cycle Management (RCM)** analytics, KPI reporting, denial analysis, and process automation.
+Results-driven **Data Analyst with 4+ years of experience** in **data analytics, automation, ETL pipelines, and business intelligence**, with deep expertise in **Healthcare Revenue Cycle Management (RCM)**.
+
+I specialize in building **end-to-end automated data pipelines**, developing **Power BI dashboards**, and creating **scalable reporting solutions** using **Python, SQL, PostgreSQL, Excel, and automation frameworks**. My work consistently reduces manual effort, improves data accuracy, and enables leadership to make data-driven decisions.
 
 ---
 
-## 🧠 Key Skills & Technologies  
+## 🧠 Core Skills  
 
 **Programming & Querying**  
 - Python, SQL, JavaScript, VBA, DAX  
 
 **Data Analytics & BI**  
 - Power BI, Advanced Excel, PostgreSQL  
-- ETL Pipelines, Data Modeling, KPI Reporting  
-- Statistical Analysis, Data Validation  
+- ETL Pipelines, Data Modeling  
+- KPI Reporting, Statistical Analysis  
 
 **Automation & Engineering**  
 - Playwright, UiPath, REST APIs  
 - Web Scraping, Workflow Automation  
-- Git, Error Handling, Scheduling  
+- Git, Scheduling, Error Handling  
 
 **Healthcare Domain**  
 - Revenue Cycle Management (RCM)  
@@ -56,70 +38,104 @@ Specialized in **Healthcare Revenue Cycle Management (RCM)** analytics, KPI repo
 
 ---
 
+## 📊 GitHub Stats & Activity  
+
+### GitHub Overview
+![GitHub followers](https://img.shields.io/github/followers/ashusaini635?label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/ashusaini635?label=Total%20Stars)
+![Profile views](https://komarev.com/ghpvc/?username=ashusaini635&label=Profile%20Views)
+
+---
+
 ## 💼 Professional Experience  
 
-### Reporting Analyst — SCALE Healthcare  
+### **Reporting Analyst — SCALE Healthcare**  
 **Sep 2024 – Present | Mohali, India**
 
-- Engineered **automated ETL pipelines** using Python & Playwright, reducing manual effort by **85%**  
-- Built **Power BI dashboards** for billing KPIs, payer performance, denial trends, and revenue metrics  
-- Automated reporting using **Python & VBA**, improving accuracy and turnaround time  
-- Delivered automation solutions saving **20+ operational hours weekly**  
+- Engineered **automated ETL pipelines** using Python & Playwright to extract healthcare data from multiple PMS platforms into PostgreSQL  
+- Reduced **manual processing time by 85%** through automation  
+- Developed **Power BI dashboards** tracking billing KPIs, denial trends, payer performance, and revenue metrics  
+- Automated MIS reporting using **Python & VBA**, improving data accuracy and turnaround time  
+- Delivered automation solutions saving **20+ operational hours per week**
 
 ---
 
-### Analyst — Coronis IT Systems Pvt. Ltd.  
+### **Analyst — Coronis IT Systems Pvt. Ltd.**  
 **Sep 2021 – Aug 2024 | Punjab, India**
 
-- Developed SQL-based analytics and Excel automation for **RCM performance monitoring**  
-- Designed Power BI dashboards with **DAX-based calculations**  
-- Conducted **root cause analysis** on denials and payment delays  
-- Provided data-driven insights to leadership for revenue optimization  
+- Built SQL-driven analytics and Excel automation for **RCM performance monitoring**  
+- Designed **Power BI dashboards** with advanced DAX calculations  
+- Conducted **denial root cause analysis** and payment delay investigations  
+- Provided actionable insights to leadership for revenue optimization  
 
 ---
 
-## 🚀 Key Projects  
+## 🚀 Featured Projects  
 
-### 🏥 Healthcare Data Automation Pipeline  
-**Python | Playwright | PostgreSQL | ETL**
+### 🏥 Healthcare ETL Automation Pipeline  
+**Python | Playwright | PostgreSQL**
 
-- Automated data extraction from **4+ PMS platforms**  
-- Centralized data into PostgreSQL with **99.5% accuracy**  
-- Implemented monitoring, logging, and real-time failure alerts  
+- Automated extraction from **4+ healthcare PMS platforms**  
+- Centralized validated data into PostgreSQL with **99.5% accuracy**  
+- Implemented logging, monitoring, scheduling, and real-time failure alerts  
 
 ---
 
-### 📊 Power BI RCM Dashboards  
+### 📊 Power BI Healthcare RCM Dashboards  
 **Power BI | DAX | Power Query**
 
-- Appointment, cancellation, and no-show analysis  
+- Appointment, cancellation, and no-show analytics  
 - Payer & provider-wise revenue insights  
-- Validation pipeline accuracy and turnaround metrics  
+- Denial trends and validation pipeline metrics  
+- Executive-ready KPI dashboards for leadership  
+
+---
+
+### ⚙️ Excel & VBA Reporting Automation  
+**Excel | VBA | SQL**
+
+- Automated MIS and operational reports  
+- Implemented data validation and reconciliation checks  
+- Reduced repetitive manual reporting tasks  
 
 ---
 
 ### 🌐 Portfolio Website  
 **HTML | Tailwind CSS | JavaScript | Netlify**
 
-- Responsive professional portfolio with project showcases  
+- Responsive professional portfolio showcasing analytics and automation projects  
 - 500+ monthly visitors  
 
 🔗 https://ashusaini.netlify.app  
 
 ---
 
-## 🎓 Education & Certifications  
+## 🎓 Education  
 
-🎓 Diploma in Mechanical Engineering (ITI)  
-📜 Power BI • SQL • Git • JavaScript • Medical Coding & Billing • Generative AI  
+**Diploma in Draughtsman Mechanical**  
+Government ITI Ludhiana  
 
 ---
 
-## 🤝 Open to Roles  
+## 📜 Certifications  
+
+- Data Visualization with Power BI  
+- SQL for Beginners  
+- Git  
+- JavaScript Algorithms & Data Structures  
+- Responsive Web Design  
+- Diploma in Medical Coding & Billing  
+- Introduction to Generative AI  
+
+---
+
+## 🤝 Open to Opportunities  
 
 ✔ Data Analyst  
 ✔ Automation Engineer  
 ✔ BI Analyst  
 ✔ Healthcare Data Analyst  
 
-⭐ If you like my work, feel free to star my repositories!
+I’m open to **full-time, contract, and remote roles** where data, automation, and analytics drive business impact.
+
+⭐ If you find my work useful, feel free to star my repositories!
