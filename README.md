@@ -116,6 +116,25 @@ I specialize in building **end-to-end automated data pipelines**, developing **P
 Government ITI Ludhiana  
 
 ---
+## 🧰 Tech Stack
+
+### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-512BD4?logo=microsoft&logoColor=white)
+
+### Automation & Tools
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?logo=uipath&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+---
 
 ## 📜 Certifications  
 
