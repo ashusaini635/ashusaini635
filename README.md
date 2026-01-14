@@ -12,9 +12,15 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ashusaini635?label=Followers" />
-  <img src="https://img.shields.io/github/stars/ashusaini635?label=Total%20Stars" />
-  <img src="https://komarev.com/ghpvc/?username=ashusaini635&label=Profile%20Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashusaini635&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashusaini635&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashusaini635&layout=compact&hide_border=true" />
 </p>
 
 
